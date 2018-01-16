@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <div class="home">
   {% if page.title %}
@@ -28,4 +25,3 @@ layout: default
   {% endif %}
 
 </div>
-
