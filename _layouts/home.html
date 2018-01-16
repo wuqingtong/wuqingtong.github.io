@@ -20,6 +20,7 @@ layout: default
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             {{ post.content | split:"<!-- more -->" | first }}
+            <a class="post-link" href="{{ post.url | relative_url }}">阅读全文</a>
           </h3>
         </li>
       {% endfor %}
