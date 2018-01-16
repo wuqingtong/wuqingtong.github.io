@@ -1,4 +1,3 @@
 theme: jekyll-theme-architect
 title: Hello呀
 description: I'm too young to write
-permalink: /blog/:year/:month/:day/:title
