@@ -8,7 +8,7 @@ RVM
 
 Rails
 这个也不用多说，著名开发框架。详细看 http://zh.wikipedia.org/wiki/Ruby_on_Rails
-
+<!-- more -->
 RubyGems
 RubyGems是一个方便而强大的Ruby程序包管理器（ package manager），类似RedHat的RPM.它将一个Ruby应用程序打包到一个gem里，作为一个安装单元。无需安装，最新的Ruby版本已经包含RubyGems了。
 
